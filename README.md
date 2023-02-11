@@ -5,6 +5,11 @@
 - 🤔 Currently ~~working at~~ figuring out GitHub
 - 💬 Part time blogger on [LinkedIn](https://www.linkedin.com/in/aditi-matta-21976021b)
 - ⚡ Looking for better opportunities everyday!
+
+<p align="left">
+<h3 align="left">If you want to buy me a coffee!</h3>
+<a slign="left" href="https://coindrop.to/aditimatta" target="_blank"><img align="left" src="https://coindrop.to/embed-button.png" style="border-radius: 10px; height: 114px !important;width: 458px !important;" alt="Coindrop.to me"></img></a>
+</p>
 <!--
 **Aditimatta/aditimatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
