@@ -1,5 +1,4 @@
-#0D1117
-### Hi, Aditi this side 👋
+### Hi, Aditi this side! 👋
 > An eager coder
 
 - 👨‍💻 1st year BCA student at [VIPS](https://vips.edu/)
